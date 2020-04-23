@@ -1,7 +1,7 @@
-## This directory contains script to identify resources which maybe violating compliance requirements. 
+##Scripts to identify resources which maybe violating compliance requirements. 
 
-### Identify public buckets 
-Identify and report all the public buckets in an account with their level of access. 
+### Identify public s3 buckets 
+Identify and report all the public s3 buckets in an account with their level of access. 
 
 #### Usage 
 
