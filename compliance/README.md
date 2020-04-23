@@ -20,4 +20,5 @@ Script that parses all s3 buckets within an account or all accounts and lists al
 
 ### Requirements : 
 - Python3 3.7.3
-- boto3==1.9.183                                                                                                             - botocore==1.12.183
+- boto3==1.9.183                                                                                                           
+- botocore==1.12.183
